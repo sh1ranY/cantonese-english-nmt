@@ -1,0 +1,4 @@
+setting,evaluation_domain,metric,score,result_type
+200k pseudo + 200k original,in-domain,BLEU,29.63,reported study result
+200k pseudo + 200k original,in-domain,chrF,56.65,reported study result
+200k pseudo + 200k original,legal-domain,BLEU,15.87,reported study result

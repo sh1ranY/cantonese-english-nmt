@@ -55,3 +55,10 @@ The published paper is linked above. This repository does not redistribute the p
 ---
 
 [Peixuan Yang's profile](https://github.com/sh1ranY)
+
+## Experiment companion
+
+- [Workflow, documented settings and reproduction gaps](docs/experiment-guide.md)
+- [Reported headline results as CSV](results/reported-results.csv)
+
+These additions describe the study; they do not constitute released training scripts or a new replication.
